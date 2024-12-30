@@ -1,0 +1,1 @@
+This repository demonstrates a common JavaScript bug stemming from loose typing and the behavior of the + operator.  The `bug.js` file showcases the unexpected string concatenation that occurs when adding a number and a string. The `bugSolution.js` file provides a corrected version using parseInt to ensure numerical addition.
